@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateBasketPrice", "CalculateBasketPrice\CalculateBasketPrice.csproj", "{4C4BA09D-F96A-4C93-BBE0-D2D1B59EBB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4BA09D-F96A-4C93-BBE0-D2D1B59EBB6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4BA09D-F96A-4C93-BBE0-D2D1B59EBB6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4BA09D-F96A-4C93-BBE0-D2D1B59EBB6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4BA09D-F96A-4C93-BBE0-D2D1B59EBB6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E19FFB93-E9DD-4C7A-9237-59DFFF05C95C}
+	EndGlobalSection
+EndGlobal
